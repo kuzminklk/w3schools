@@ -1,6 +1,6 @@
 
-### Purpose 
-Detached repository for W3Schools study materials
+### Description 
+Detached repository for [W3Schools](https://www.w3schools.com/) study materials
 
-### Associations
-More information, study path, summary in [detached Notion Page](https://www.notion.so/kuzminklk/W3-Schools-31154d4de03580ac9b65c89351f0fc26?source=copy_link)
+### Purpose
+Part of computer-science study curriculum availabe in [Notion](https://app.notion.com/p/kuzminklk/31154d4de03580d7b5ceca5b187846be) (private for now)
